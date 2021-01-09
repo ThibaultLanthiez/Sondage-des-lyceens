@@ -6,7 +6,7 @@ Le projet de première année de DUT consistait en un sondage de lycéens et au 
 
 La première étape fut la création du questionnaire. 
 
-Nous sommes ensuite allés dans un lycée pour interroger les élèves.
+Nous sommes ensuite allés dans un lycée pour interroger des élèves.
 
 Puis, nous avons entré sous format numérique les réponses. Il aurait peut-être été plus judicieux de créer un questionnaire web qui insère automatiquement les réponses dans une base de données. Cependant, au moment de la création du questionnaire, nous n'avions pas les compétences nécessaires pour ce genre d'implémentation. C'est seulement quelques mois plus tard que nous avons fait un projet dans lequel nous avons développé un [questionnaire relié à une base de données](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees).   
 
