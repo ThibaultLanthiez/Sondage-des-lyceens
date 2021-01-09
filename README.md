@@ -2,7 +2,7 @@
 
 # Sondage auprès de lycéens et analyses des réponses
 
-Le projet de première année de DUT consistait en un sondage de lycéens et au traitement de leurs réponses. Le sujet qui nous avons choisi avec mes amis était "les lycéens et leurs dépenses". 
+Le projet de première année de DUT consistait en un sondage de lycéens et au traitement de leurs réponses. Le sujet qui nous avons choisi avec mon groupe était "les lycéens et leurs dépenses". 
 
 La première étape fut la création du questionnaire. Nous sommes ensuite allés dans un lycée pour interroger les élèves.
 
